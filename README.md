@@ -6,8 +6,7 @@
   </div><br>
 
   <h1>Casa Verde</h1>
-  <p>Página web para vendas de plantas decorativas para sua casa, 
-  desenvolvido através do curso Guia de estilos: Montando páginas com componentes, da plataforma Alura</p>
+  <p>Página web para vendas de plantas decorativas para sua casa, desenvolvido através do curso de Guia de estilos: Montando páginas com componentes, da plataforma Alura</p>
 
   <div>
     <a href="https://github.com/Doug-Silva/casa-verde/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
