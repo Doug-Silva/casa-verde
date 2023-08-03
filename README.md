@@ -9,8 +9,7 @@
   <p>Página web para vendas de plantas decorativas para sua casa, desenvolvido através do curso de Guia de estilos: Montando páginas com componentes, da plataforma Alura</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/casa-verde/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
-    alt="License MIT"></a>
+    <a href="https://github.com/Doug-Silva/casa-verde/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License MIT"></a>
   </div><br>
 
   <!--Adicionar imagem/gif do projeto aqui-->
